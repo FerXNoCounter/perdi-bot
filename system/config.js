@@ -1,7 +1,7 @@
 // Owner number
-global.owner = "6285807264974","6281248009076"
+global.owner = "6283124213641","6283124213641"
 // Owner name
-global.owner_name = 'Customer Service'
+global.owner_name = 'Perdi Projects'
 // Maximum upload file size limit (Default : 50 MB)
 global.max_upload = 50
 // Delay for spamming protection (Default : 3 seconds)
